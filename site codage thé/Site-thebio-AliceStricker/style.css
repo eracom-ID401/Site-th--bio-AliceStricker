@@ -1,0 +1,357 @@
+
+.titre{
+  font-weight: 300;
+  font-size: 90px;
+  font-family: 'Grape Nuts', cursive;
+  width: 30%;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight:lighter ;
+}
+
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+
+.head{
+    display: flex;
+    margin-top: 90px;
+}
+
+
+.logo
+{
+    text-align: center;
+    width: 90%;
+   
+}
+
+#produits{
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Grape Nuts', cursive;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 300px;
+}
+
+
+.produitsliste{
+    width: 10%;
+    display: flex;
+    float: inline-end;
+    margin-left: 8%;
+    margin-right: 8%;
+
+}
+
+
+.thé1{
+    width: 100%;
+    margin: 30%;
+    border: solid; 
+    border-radius: 60px;
+    border-width: 1px;
+    width: 350px;
+    height: 570px;
+    border-color:cadetblue;
+    text-align: center;
+    
+    
+    
+}
+
+.thé2{
+    
+    width: 100%;
+    margin: 30%;
+    border: solid;
+    border-radius: 60px;
+    border-width: 1px;
+    width: 350px;
+    height: 570px;
+    border-color: chocolate;
+    text-align: center;
+    
+    
+    
+}
+
+
+
+.thé3{
+    
+    width: 100%;
+    margin: 30%;
+    border: solid;
+    border-radius: 60px;
+    border-width: 1px;
+    width: 350px;
+    height: 570px;
+    border-color:deepskyblue;
+    text-align: center;
+    
+}
+
+.thé4{
+    
+    width: 100%;
+    margin: 30%;
+    border: solid;
+    border-radius: 60px;
+    border-width: 1px;
+    width: 350px;
+    height: 570px;
+    border-color: indigo;
+    text-align: center;
+    
+}
+
+
+.thé6{
+    
+    margin: 30%;
+    width: 100%;
+    border: solid;
+    border-radius: 60px;
+    border-width: 1px;
+    width: 350px;
+    height: 570px;
+    border-color: green;
+    text-align: center;
+    
+}
+
+.thé7{
+    margin: 30%;
+    width: 100%;
+    border: solid;
+    border-radius: 60px;
+    border-width: 1px;
+    width: 350px;
+    height: 570px;
+    border-color: black;
+    text-align: center;
+    
+}
+
+.thé8{
+    margin: 30%;
+    width: 100%;
+    border: solid;
+    border-radius: 60px;
+    border-width: 1px;
+    width: 350px;
+    height: 570px;
+    border-color: darkred;
+    text-align: center;
+    
+}
+
+.thé9{
+    margin: 30%;
+    width: 100%;
+    border: solid;
+    border-radius: 60px;
+    border-width: 1px;
+    width: 350px;
+    height: 570px;
+    border-color: cherry;
+    text-align: center;
+    
+}
+
+.liste2{
+    width: 10%;
+    display: flex;
+    float: inline-end;
+    margin-left: 8%;
+    margin-right: 8%;
+} 
+
+
+.bouton{
+    display: flex;
+}
+
+.prix1{
+    background-color: cadetblue;
+    border-radius: 60px;
+    margin-left: 30%;
+    padding: 1rem 0px 0px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    color: ivory;
+    ;
+
+}
+
+.prix2{
+    background-color: chocolate;
+    border-radius: 60px;
+    margin-left: 30%;
+    margin-right: 0.5%;
+    color: ivory;
+    padding: 1rem 0px 0px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+
+.prix3{
+    background-color: deepskyblue;
+    border-radius: 60px;
+    margin-left: 30%;
+    color: ivory;
+    padding: 1rem 0px 0px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+
+.prix4{
+    background-color: indigo;
+    border-radius: 60px;
+    color: ivory;
+    margin-left: 30%;
+    width: 100px;
+    height: 30px;
+    padding: 1rem 0px 0px;
+    text-align: center;
+}
+
+
+.bouton2{
+    display: flex;
+}
+
+.prix5{
+    background-color: green;
+    border-radius: 60px;
+    margin-left: 30%;
+    padding: 1rem 0px 0px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    color: ivory;
+
+}
+
+.prix6{
+    background-color: black;
+    border-radius: 60px;
+    margin-left: 30%;
+    margin-right: 0.5%;
+    color: ivory;
+    padding: 1rem 0px 0px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+
+.prix7{
+    background-color: darkred;
+    border-radius: 60px;
+    margin-left: 32%;
+    color: ivory;
+    padding: 1rem 0px 0px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+
+.prix8{
+    background-color: indigo;
+    border-radius: 60px;
+    color: ivory;
+    margin-left: 32%;
+    width: 100px;
+    height: 30px;
+    padding: 1rem 0px 0px;
+    text-align: center;
+}
+
+
+.newsletter{
+    margin-left: 16%
+    ;
+}
+
+
+
+#footer5{
+    
+    display: flex;
+    background-color:orange;
+    margin-top: 200px;
+}
+
+.footer25{
+    
+    margin-left: 19%;
+    font-size: 20px;
+    color: white ;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+
+}
+
+
+.foot5{
+    
+    margin-left: 19%;
+    font-size: 20px;
+    width: 50%;
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.bouton2{
+    background-color: rgb(153, 76, 12);
+    color: white;
+    width: 21%;
+    margin-left: 120px;
+    padding: 10px;
+}
+
+.mail{
+    color: white;
+    width: 450px;
+    height: 80px;
+    text-align: center;
+    margin-right: 200px ;
+}
+
+#fname {
+    width: 70%;
+    height: 70%;
+    font-size: 100%;
+    margin-right: 15%;
+    border-style: solid 3px rgb(153, 76, 12);
+    border: solid;
+    border-color: rgb(153, 76, 12);;
+
+}
+
+
+.lienpage{
+    color: rgb(153, 76, 12);
+    list-style: none;
+    margin-left: 35%;
+
+}
+
+nav{
+    display: flex;
+    
+    margin-left: 13%;
+    
+}
